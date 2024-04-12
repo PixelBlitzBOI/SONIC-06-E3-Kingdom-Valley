@@ -12,5 +12,6 @@ The contents in this repository are all decompiled and are constantly getting ch
 ### Next Update
 -More accurate lighting for both Section A and C
 -Proper section switch (from Section A to Section C)
+-E3 Camera volumes for Section C
 ### Future Update
 -Old Enemy Placement (Instead of just custom enemy hp)
