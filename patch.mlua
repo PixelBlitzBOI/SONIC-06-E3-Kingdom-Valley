@@ -1,0 +1,9 @@
+--[Patch]--
+Title("E3 Kingdom Valley")
+Author("PixelBlitzBOI")
+Platform("Xbox 360")
+
+--[Functions]--
+BeginBlock("core\archives\player.arc")
+StringReplace("core\player\sonic_new.lub"|"  OpenSound(_ARG_0_, sound_module_sonic, "player_sonic")  \nOpenGauge(_ARG_0_, gauge_module_sonic)"|"  OpenSound(_ARG_0_, sound_module_sonic, "player_sonic")")   
+EndBlock("core\archives\player.arc")
