@@ -50,4 +50,3 @@ end
 function on_goal(a1)
   Result(a1, "g_result_kdv")
 end
-

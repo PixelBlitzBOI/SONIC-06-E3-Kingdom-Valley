@@ -1,18 +1,18 @@
 Light = {
   Ambient = {
     Color = {
-      0.269,
-      0.268,
-      0.269,
-      1.9
+      0.1,
+      0.1,
+      0.1,
+      4.5
     }
   },
   Main = {
     Color = {
-      0.5,
-      0.5,
-      0.5,
-      1.85
+      0.1,
+      0.1,
+      0.1,
+      8.5
     },
     Direction_3dsmax = {
       Position = {
@@ -29,10 +29,10 @@ Light = {
   },
   Sub = {
     Color = {
-      0.5,
-      0.5,
-      0.5,
-      0.8
+      0.1,
+      0.1,
+      0.1,
+      0.1
     },
     Direction_3dsmax = {
       Position = {

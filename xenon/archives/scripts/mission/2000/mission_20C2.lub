@@ -62,4 +62,3 @@ function on_goal(a1)
   SetGlobalFlag(a1, 4036, 1)
   Result(a1, "g_result_kdv")
 end
-
