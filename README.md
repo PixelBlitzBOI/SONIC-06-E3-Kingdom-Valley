@@ -5,7 +5,7 @@ The contents in this repository are all decompiled and are constantly getting ch
 ## Gamebanana
 https://gamebanana.com/mods/501680
 ## Content
-### Current Version (2.1)
+### Current Version (2.2)
 -Accurate recriation of the skybox
 -Accurate lighting for Section A
 -Custom Enemy health (All eGunners are now 1-hit kill)
