@@ -1,9 +1,11 @@
 --[Patch]--
+//Generic Information of the Patch
 Title("Section Switcher Fix")
 Author("Modding_Jackster")
 Platform("Xbox 360")
 
 --[Functions]--
+//Functions of the patch
 BeginBlock("core\archives\player.arc")
 StringReplace("core\player\sonic_new.lub"|"  OpenSound(_ARG_0_, sound_module_sonic, "player_sonic")  \nOpenGauge(_ARG_0_, gauge_module_sonic)"|"  OpenSound(_ARG_0_, sound_module_sonic, "player_sonic")")   
 EndBlock("core\archives\player.arc")
