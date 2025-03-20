@@ -5,8 +5,8 @@ The contents in this repository are all decompiled and are constantly getting ch
 ## Gamebanana
 https://gamebanana.com/mods/501680
 ## Content
-### Current Version (2.3)
--Accurate recriation of the skybox
+### Current Version (2.5)
+-Accurate recreation of the skybox
 -Accurate lighting for Section A
 -Custom Enemy health (All eGunners are now 1-hit kill)
 -Camera volumes
@@ -14,5 +14,3 @@ https://gamebanana.com/mods/501680
 -More accurate lighting for both Section A and C
 -Proper section switch (from Section A to Section C)
 -E3 Camera volumes for Section C
-### Next Update
--Old Enemy Placement (Instead of just custom enemy hp)
