@@ -46,7 +46,7 @@ end
 function on_event(a1, a2)
   if a2 == "goto_c" then
     g_mission_information.mission_terrain = "stage/kdv/c/"
-
+    g_mission_information.mission_area = "kdv/sonic/c"
     g_mission_information.mission_set_default = "scripts/mission/2000/set_kdv_c_sonic_h.xml"
     g_mission_information.mission_is_battle = true
     ChangeArea(a1, g_mission_information.mission_area)
